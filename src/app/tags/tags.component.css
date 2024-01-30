@@ -1,6 +1,7 @@
 div{
     display: flex;
     flex-wrap: wrap;
+    
 }
 
 div a{

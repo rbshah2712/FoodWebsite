@@ -69,7 +69,8 @@ li a:hover{
 
 .price{
     color:#414141;
-    margin-top: 3.7rem;
+    margin-top: -3.3rem;
     margin-right: 0rem;
     margin-left: -3rem;
+    text-align: center;
 }
